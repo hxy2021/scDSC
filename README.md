@@ -10,9 +10,12 @@ Furthermore, we adopt a mutual supervised strategy to unify these two different 
 5. Remarks: The specific data file can be downloaded from the following website:
 
 | ***\*MTAB\****              | ***\*EMBL-EBOI\****     | ***\*https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3929/?query=1529+**** |
+| --------------------------- | ----------------------- | ------------------------------------------------------------ |
 | ***\*lps\****               | ***\*GEO-NCBI\****      | ***\*https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE17721**** |
 | ***\*GSE70256\****          | ***\*GEO-NCBI\****      | ***\*https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi****     |
 | ***\*PBMC\****              | ***\*10X\****           | ***\*https://support.10xgenomics.com/single-cell-gene-expression/datasets/2.1.0/pbmc4k**** |
 | ***\*Mouse\****             | ***\*Microwell-seq\**** | ***\*https://figshare.com/s/865e694ad06d5857db4b****        |
 | ***\*Worm neuron cells\**** | ***\*sci-RNA-seq\****   | **[http://atlas.gs.washington.edu/worm-rna/docs**            |
+
+
 
